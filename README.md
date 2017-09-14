@@ -10,6 +10,7 @@ Hello, 我是魏瑋辰，就讀清大電機碩一，接受鄭桂忠教授指導�
 ## What do you want to achieve in the course? [ max 500 words]
 1. 增加實作能力
 2. CV的很多議題都很有趣，希望多看多學增加自己的視野，以便未來找到專精的題目
+
 PS. 中文 or English are both fine.
 
 ## Due Date: Sept. 20, 2017
