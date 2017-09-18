@@ -3,7 +3,7 @@ This homework is simply used to check if all students know how to work with git 
 At the sametime, it also helps me to know you a little bit more :)
 
 ## Brief self-introduction [max 500 words]
-Hello, 我是魏瑋辰，就讀清大電機碩一，接受鄭桂忠教授指導學習AI演算法。
+Hello, 我是魏瑋辰，就讀清大電機碩一
 
 ## Why Computer Vision? [max 500 words]
 因為覺得這個領域超級cool，未來的研究方向也需要CV的知識與技術，自己是聽過了許多的ML、DL線上課程以及研討會，
