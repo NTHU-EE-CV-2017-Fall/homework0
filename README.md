@@ -8,6 +8,5 @@ At the sametime, it also helps me to know you a little bit more :)
 覺得CV很有趣。
 ## What do you want to achieve in the course? [ max 500 words]
 增進CV背景知識以及coding能力。
-PS. 中文 or English are both fine.
 
 ## Due Date: Sept. 24, 2016
