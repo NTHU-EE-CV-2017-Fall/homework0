@@ -3,10 +3,10 @@ This homework is simply used to check if all students know how to work with git 
 At the sametime, it also helps me to know you a little bit more :)
 
 ## Brief self-introduction [max 500 words]
-hi
+Hi, I'm from Chao-Tsung Huang's lab and interested in image processing.
 
 ## Why Computer Vision? [max 500 words]
-song la
+To learn more skill of image processing.
 
 ## What do you want to achieve in the course? [ max 500 words]
 nothing
