@@ -8,6 +8,7 @@ I'm Kai-Shou Hsu, a master student from NTHU EE.
 Computer Vision is the trend nowadays and the application of technology in image recognition processing will be more and more.
 ## What do you want to achieve in the course? [ max 500 words]
 To familiar with tools (such as Python...etc) to deal with image problems.
+
 PS. 中文 or English are both fine.
 
 ## Due Date: Sept. 20, 2017
