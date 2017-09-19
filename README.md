@@ -4,7 +4,7 @@ At the sametime, it also helps me to know you a little bit more :)
 
 ## Brief self-introduction [max 500 words]
 
-我是清華理學院學士班的畢業生，目前就讀清華電機所，指導教授為李夢麟。
+我是清華大學理學院學士班的畢業生，目前就讀清華電機所，指導教授為李夢麟。
 
 ## Why Computer Vision? [max 500 words]
 
