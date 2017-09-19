@@ -6,8 +6,10 @@ At the sametime, it also helps me to know you a little bit more :)
 hi
 
 ## Why Computer Vision? [max 500 words]
+song la
 
 ## What do you want to achieve in the course? [ max 500 words]
+nothing
 
 PS. 中文 or English are both fine.
 
