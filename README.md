@@ -6,7 +6,7 @@ At the sametime, it also helps me to know you a little bit more :)
 Hi, my name is 林秉言. I'm from Chao-Tsung Huang's lab and interested in image processing.
 
 ## Why Computer Vision? [max 500 words]
-To learn more skill of image processing.
+To learn more skills about image processing.
 
 ## What do you want to achieve in the course? [ max 500 words]
 I want to have a decent final project with my teammate.
